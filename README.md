@@ -1,0 +1,1 @@
+“An AI PDF chatbot RAG project lets users upload PDFs and ask questions in natural language. The system extracts text, stores vector embeddings, retrieves relevant chunks, and generates grounded answers using retrieval‑augmented generation, enabling fast, accurate, and citation‑friendly document exploration.”
